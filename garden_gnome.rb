@@ -16,6 +16,8 @@ def shout
   "GNARLY!!!"
 end
 
+
+
 end
 
 gnawing_gnome = GardenGnome.new
