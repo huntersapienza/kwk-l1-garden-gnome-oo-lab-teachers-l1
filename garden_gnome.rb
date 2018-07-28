@@ -14,4 +14,4 @@ end
 
 end
 
-test_gnome = GardenGnome.new
+gnawing_gnome = GardenGnome.new
