@@ -9,7 +9,7 @@ def initialize(hat_color = "red", personality = "evil")
 end
 
 def gnaw
-  puts "Gnawing on a tree!!!"
+  "Gnawing on a tree!!!"
 end
 
 end
