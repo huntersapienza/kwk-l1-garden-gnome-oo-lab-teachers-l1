@@ -12,6 +12,10 @@ def gnaw
   "Gnawing on a tree!!!"
 end
 
+def shout
+  "GNARLY!!!"
+end
+
 end
 
 gnawing_gnome = GardenGnome.new
