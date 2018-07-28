@@ -8,6 +8,10 @@ def initialize(hat_color = "red", personality = "evil")
   @hat_color = hat_color
 end
 
+def gnaw
+  puts "Gnawing on a tree!!!"
+end
+
 end
 
 test_gnome = GardenGnome.new
